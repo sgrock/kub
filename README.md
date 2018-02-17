@@ -14,8 +14,8 @@
 
 <br/><br/>
 
-<center><img alt="ссылка" 
-src="https://youtu.be/dueJTClX7c4">
+<center>
+<img alt="https://github.com/AlexGyver/GravityPixels" src="proj_img.jpg">
 </center>
 <br/><br/>
 <font style="color:green">Этот текст зеленый</font>
