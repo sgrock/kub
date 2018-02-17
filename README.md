@@ -9,13 +9,13 @@
 
 ћатрица адресных светодиодов, имитирующа€ движение шариков по наклонной плоскости
 
-ѕодробности в видео: hhttps://youtu.be/dueJTClX7c4
+ѕодробности в видео: https://youtu.be/dueJTClX7c4
 
-ѕоскольку € люблю авиацию, то хотел бы поделитьс€ несколькими интересными 
-фотографи€ми на эту тему
+
 <br/><br/>
-<center><img alt="ƒва самолета" 
-src="https://img-fotki.yandex.ru/get/9931/160700675.0/0_110e34_54188f48_-1-orig">
+
+<center><img alt="ссылка" 
+src="https://youtu.be/dueJTClX7c4">
 </center>
 <br/><br/>
 <font style="color:green">Ётот текст зеленый</font>
